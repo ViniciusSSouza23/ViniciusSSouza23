@@ -1,11 +1,11 @@
 <h1>Olá, sou o Vinicius Souza<h1>
-  <br/>
-  <br/>
+
   <ul>
     <li>Me tornando um especialista em front-end, atualmente me dedicando ao VueJs<br/></li>
     <li>Trabalhando atualmente na NRE como Dev Front-End</li>
     <li>Desenvolvimento de plataformas WEB usando Vue.Js, VUEX, Pinia, Vue-Router, Bootstrap, Element Plus</li>
   </ul>
+    <br/>
   
   <div align="center">
   <a href="https://github.com/ViniciusSSouza23">
