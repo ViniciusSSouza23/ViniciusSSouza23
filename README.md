@@ -1,8 +1,6 @@
 <h1>Olá, sou o Vinicius Souza<h1>
   <ul>
-    <li>📚 Atualmente me dedicando a tecnologias Front.<br/></li>
-    <li>👨‍💻 Cursando Análise e Desenvolvimento de Sistemas pela Unoeste.<br/></li>
-    <li>👨‍🔬 Buscando ser um especialista nas tecnologias que estudo.</li><br/>
+    <li>📚 Me tornando um especialista em front-end, atualmente me dedicando ao VueJs<br/></li>
   </ul>
   
   <div align="center">
