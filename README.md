@@ -1,6 +1,10 @@
 <h1>Olá, sou o Vinicius Souza<h1>
+  <br/>
+  <br/>
   <ul>
-    <li>📚 Me tornando um especialista em front-end, atualmente me dedicando ao VueJs<br/></li>
+    <li>Me tornando um especialista em front-end, atualmente me dedicando ao VueJs<br/></li>
+    <li>Trabalhando atualmente na NRE como Dev Front-End</li>
+    <li>Desenvolvimento de plataformas WEB usando Vue.Js, VUEX, Pinia, Vue-Router, Bootstrap, Element Plus</li>
   </ul>
   
   <div align="center">
@@ -20,6 +24,7 @@
   <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
 </div>
     <br/>
     
